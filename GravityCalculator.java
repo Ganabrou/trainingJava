@@ -1,4 +1,4 @@
-//Baitaptuan
+﻿//Baitaptuan
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -26,9 +26,18 @@ System.out.println("The object's position after " + fallingTime +
     E không hiểu câu hỏi lắm nên trả lời thế
     Ý câu hỏi là gì ạ?
  */
+// ý câu hỏi 1 là: khi chạy đoạn code đó mà không chỉnh sửa gì (unmodify) thì output ra là gì? Hãy comment output đó vào file source code.
+// E chú ý dấu { trong khi code java sẽ để ở hàng trên (như ví dụ part 1). Còn } thì để như e đúng rồi. 
+// Ngoài ra khi code cần format code thụt ra, thụt vào đúng chuẩn. Ví dụ:
+/* 	if(a > b) {
+   	    System.out.println("a > b");
+	} else {
+   	    System.out.println("a < b");
+	}
+*/
 /* Part2
 public static void main(String[] arguments)
-{ int t=10;
+{ int t=10; // dấu { trong khi code java sẽ để ở hàng trên
   double a= -9.81;
   double v=0.0, x=0.0;
 System.out.println("The object's póition after " + t + "seconds is" + 
